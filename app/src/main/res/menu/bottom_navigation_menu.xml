@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_feed"
+        android:enabled="true"
+        android:icon="@drawable/ic_feed"
+        android:title="Feed"/>
+    <item
+        android:id="@+id/item_diet"
+        android:enabled="true"
+        android:icon="@drawable/ic_diet"
+        android:title="Diet"/>
+    <item
+        android:id="@+id/item_add"
+        android:enabled="true"
+        android:icon="@drawable/ic_add"
+        android:title="Add"/>
+    <item
+        android:id="@+id/item_exercise"
+        android:enabled="true"
+        android:icon="@drawable/ic_exercise"
+        android:title="Exercise"/>
+    <item
+        android:id="@+id/item_profile"
+        android:enabled="true"
+        android:icon="@drawable/ic_profile"
+        android:title="Profile"/>
+
+</menu>
